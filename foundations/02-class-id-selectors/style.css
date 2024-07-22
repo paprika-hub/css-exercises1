@@ -1,0 +1,20 @@
+.parrafo{
+    background-color: #ffc0cb;
+    color: black;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+
+}
+.parrafoImportante{
+    font-size: 24px;
+}
+#seccionUno{
+    color: #0000ff;
+    font-size: 36px;
+}
+#seccionDos{
+    background-color: #90ee90;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold; 
+
+}
